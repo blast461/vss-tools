@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: vss-tools
+  annotations:
+    github.com/project-slug: blast461/vss-tools
+spec:
+  type: other
+  lifecycle: unknown
+  owner: gman
